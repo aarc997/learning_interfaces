@@ -1,6 +1,3 @@
-# learning_interfaces
-bu repo ile golang de interface implementasyonu ögreniyoruz!
-
 <h1>Hedeflenen Uygulama :</h1>
 <p>ogretmen ve ogrenci structına sahibiz ve bu 2 struct arasında bir ortak nokta oluşturmak için insan adında bir interface kullanıyoruz</p>
 
