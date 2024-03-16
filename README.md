@@ -1,2 +1,7 @@
 # learning_interfaces
-i m learning interfaces in golang with this repo
+bu repo ile golang de interface implementasyonu ögreniyoruz!
+
+<h1>Amaç :</h1>
+<ul>
+    
+</ul>
