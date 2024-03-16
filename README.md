@@ -2,7 +2,7 @@
 bu repo ile golang de interface implementasyonu ögreniyoruz!
 
 <h1>Hedeflenen Uygulama :</h1>
-<p>öğretmen ve öğrenci structına sahibiz ve bu 2si arasında bir ortak nokta oluşturmak için bir interface kullanıyoruz</p>
+<p>ogretmen ve ogrenci structına sahibiz ve bu 2 struct arasında bir ortak nokta oluşturmak için insan adında bir interface kullanıyoruz</p>
 
 <h3>insan interface'i özellikleri</h3>
 <ul>
