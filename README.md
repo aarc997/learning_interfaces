@@ -8,12 +8,12 @@
 
 <h3>ogretmen structı özellikleri</h3>
 <ul>
-  <li>ad, yas, brans değişkenlerine sahip olacak</li>
+  <li>ad, yas, brans değişkenlerine sahip</li>
   <li>derseGir() ve imlement ettigi insan interface'inden gelen bilgileriAl() methoduna sahip</li>
 </ul>
 
 <h3>ogrenci structı özellikleri</h3>
 <ul>
-  <li>ogrencino, ad, sinif değişkenlerine sahip olacak</li>
+  <li>ogrencino, ad, sinif değişkenlerine sahip</li>
   <li>imlement ettigi insan interfaceinden gelen bilgileriAl() methoduna sahip</li>
 </ul>
