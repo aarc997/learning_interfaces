@@ -1,4 +1,4 @@
-<h1>Hedeflenen Uygulama :</h1>
+<h1>Uygulama Yapısı :</h1>
 <p>ogretmen ve ogrenci structına sahibiz ve bu 2 struct arasında bir ortak nokta oluşturmak için insan adında bir interface kullanıyoruz</p>
 
 <h3>insan interface'i özellikleri</h3>
